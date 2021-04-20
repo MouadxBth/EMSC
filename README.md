@@ -1,1 +1,3 @@
 # EEC
+
+A simple Core
