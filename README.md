@@ -1,3 +1,3 @@
-# EEC
+# EMSC
 
-A simple Core
+A Enhanced Minecraft Server Core implementing a somewhat modular system design.
